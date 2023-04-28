@@ -1,1 +1,2 @@
-# demind
+# Decentralized Mind Space 
+## Coming Soon...
